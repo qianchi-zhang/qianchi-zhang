@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 🎧 最近在听
+
+[![最近在听](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=Qian03&count=5&theme=dark&stats=compact)](https://www.last.fm/user/Qian03)
